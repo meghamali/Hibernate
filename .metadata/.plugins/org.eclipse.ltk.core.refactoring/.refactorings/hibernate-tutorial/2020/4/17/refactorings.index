@@ -1,0 +1,3 @@
+1587799379637	Rename package 'zuzu.hibernate.main'
+1587809023536	Rename type 'student'
+1587838260459	Extract method 'displayStudents'

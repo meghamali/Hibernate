@@ -1,0 +1,5 @@
+package zuzu.hibernate.entity;
+
+public class Course {
+
+}
