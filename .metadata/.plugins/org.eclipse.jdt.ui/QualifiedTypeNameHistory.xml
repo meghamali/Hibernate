@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="zuzu.hibernate.entity.InstructorDetail"/>
     <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
     <fullyQualifiedTypeName name="org.hibernate.query.Query"/>
-    <fullyQualifiedTypeName name="zuzu.hibernate.entity.Instructor"/>
     <fullyQualifiedTypeName name="javax.persistence.Entity"/>
     <fullyQualifiedTypeName name="javax.persistence.Table"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
@@ -23,4 +22,5 @@
     <fullyQualifiedTypeName name="zuzu.hibernate.entity.Course"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="zuzu.hibernate.entity.Student"/>
+    <fullyQualifiedTypeName name="zuzu.hibernate.entity.Instructor"/>
 </qualifiedTypeNameHistroy>
